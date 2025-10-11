@@ -1,4 +1,3 @@
 name :Kodakinti Somasundaram
 cource :aws &devops 
 location :bangulore 
-672cab1
